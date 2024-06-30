@@ -1,0 +1,48 @@
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\bin\Debug\net6.0-windows\МДК 03.01.exe
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\bin\Debug\net6.0-windows\МДК 03.01.deps.json
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\bin\Debug\net6.0-windows\МДК 03.01.runtimeconfig.json
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\bin\Debug\net6.0-windows\МДК 03.01.dll
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\bin\Debug\net6.0-windows\МДК 03.01.pdb
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК 03.01.csproj.AssemblyReference.cache
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК_03._01.Form1.resources
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК_03._01.Properties.Resources.resources
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК_03._01.Serg1.resources
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК_03._01.Vlad1.resources
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК 03.01.csproj.GenerateResource.cache
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК 03.01.GeneratedMSBuildEditorConfig.editorconfig
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК 03.01.AssemblyInfoInputs.cache
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК 03.01.AssemblyInfo.cs
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК 03.01.csproj.CoreCompileInputs.cache
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК 03.01.dll
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\refint\МДК 03.01.dll
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК 03.01.pdb
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК 03.01.genruntimeconfig.cache
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\ref\МДК 03.01.dll
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК_03._01.Serg2.resources
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК_03._01.Vlad2.resources
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК_03._01.Serg3.resources
+F:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК_03._01.Vlad3.resources
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\bin\Debug\net6.0-windows\МДК 03.01.exe
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\bin\Debug\net6.0-windows\МДК 03.01.deps.json
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\bin\Debug\net6.0-windows\МДК 03.01.runtimeconfig.json
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\bin\Debug\net6.0-windows\МДК 03.01.dll
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\bin\Debug\net6.0-windows\МДК 03.01.pdb
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК 03.01.csproj.AssemblyReference.cache
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК_03._01.Form1.resources
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК_03._01.Properties.Resources.resources
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК_03._01.Serg1.resources
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК_03._01.Serg2.resources
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК_03._01.Serg3.resources
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК_03._01.Vlad1.resources
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК_03._01.Vlad2.resources
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК_03._01.Vlad3.resources
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК 03.01.csproj.GenerateResource.cache
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК 03.01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК 03.01.AssemblyInfoInputs.cache
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК 03.01.AssemblyInfo.cs
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК 03.01.csproj.CoreCompileInputs.cache
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК 03.01.dll
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\refint\МДК 03.01.dll
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК 03.01.pdb
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\МДК 03.01.genruntimeconfig.cache
+E:\Сергей\Основ.алгори\3.02\МДК 03.01\МДК 03.01\obj\Debug\net6.0-windows\ref\МДК 03.01.dll
